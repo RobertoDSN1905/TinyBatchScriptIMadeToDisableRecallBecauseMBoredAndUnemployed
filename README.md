@@ -4,7 +4,7 @@ As the repo's name implies... I made this tiny batch script to disable windows r
 since it's gonna re-enable again every windows update and you gotta manually disable it I decided to make a **tiny** batch script.
 
 ### how to run it
-**NOTE : RECALL IS ONLY IN W11 PRO AND IN THE VERSION 24H2**
+**NOTE : RECALL IS ONLY IN W11 PRO AND IN THE VERSION 24H2**  
 1.- right click on the .bat file (you know which one).  
 2.- run as administrator.  
 4.- after that it will ask you to restart to apply changes.  
